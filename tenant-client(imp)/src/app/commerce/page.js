@@ -4,7 +4,11 @@ import React from 'react'
 const page = () => {
   return (
   <DashboardLayout>
-      <div>Commerce page</div>
+      <div className="dashboard-container responsive-text">
+  <div className="responsive-spacing">
+    Commerce page content with responsive layout
+  </div>
+</div>
   </DashboardLayout>
   )
 }

@@ -25,9 +25,9 @@ const menuItems = [
   // User & Management
 
   { icon: UsersRound , label: 'Customers', href: '/customer' },
-  { icon: LifeBuoy, label: 'Support', href: '/support' },
-  { icon: ShoppingCart, label: 'Commerce', href: '/commerce' },
-  { icon: Zap, label: 'Automations', href: '/automations' },
+  // { icon: LifeBuoy, label: 'Support', href: '/support' },
+  // { icon: ShoppingCart, label: 'Commerce', href: '/commerce' },
+  // { icon: Zap, label: 'Automations', href: '/automations' },
   
   { icon: Users, label: 'Users', href: '/users' },
   // Templates & Configuration
